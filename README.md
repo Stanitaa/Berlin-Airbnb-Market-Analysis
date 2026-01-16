@@ -15,4 +15,5 @@ This project analyzes the Berlin housing market using data from **September 23, 
 3.  **ROI Potential:** Identified districts where ROI is projected to be **12% higher** than city average based on current supply-demand imbalances.
 
 ### 📁 Main Analysis
-View the full interactive analysis here: [Berlin Airbnb Notebook](./notebooks/berlin-airbnb-analysis-sept-2025.ipynb)
+View the full interactive analysis here: [Berlin Airbnb Notebook](https://github.com/Stanitaa/Berlin-Airbnb-Market-Analysis/blob/main/berlin-airbnb-analysis-sept-2025.ipynb)
+
