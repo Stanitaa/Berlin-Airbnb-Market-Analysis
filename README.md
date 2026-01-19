@@ -5,6 +5,8 @@ This project provides a comprehensive analysis of the Berlin short-term rental m
 
 The analysis addresses complex German market dynamics, specifically the **"Utility Gap"** (Kaltmiete vs. Warmmiete) and district-level ROI potential.
 
+Data Source: https://insideairbnb.com/get-the-data/ (September 2025)
+
 ---
 
 ### 🛠️ Tech Stack & Methodology
